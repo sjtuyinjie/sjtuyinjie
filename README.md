@@ -28,7 +28,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.s
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=sjtuyinjie&theme=dracula)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=sjtuyinjie&theme=react)
 
 
 
