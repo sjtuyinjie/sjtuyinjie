@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg) visitor, thank you :stuck_out_tongue_winking_eye:
 
+[![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 [![Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJTU-ViSYS)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=sjtuyinjie&theme=react)
 
 
 
@@ -37,12 +36,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.s
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtuyinjie&layout=compact&theme=tokyonight)
 
 
-<!--table><tr><td align="center" width="55%">
-  
-[![Jie's github stats](https://github-readme-stats.vercel.app/api?username=sjtuyinjie&count_private=true&show_icons=true&theme=dark)](https://github.com/sjtuyinjie/github-readme-stats)
 
-</td><td align="top" width="45%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtuyinjie&layout=compact&theme=dark)](https://github.com/sjtuyinjie/github-readme-stats)
-
-</td></tr></table-->
