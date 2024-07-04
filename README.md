@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg) visitor, thank you :stuck_out_tongue_winking_eye:
 
 
-![](https://raw.githubusercontent.com/sjtuyinjie/sjtuyinjie/main/dist/github-contribution-grid-snake.svg)
+![](https://github.com/sjtuyinjie/sjtuyinjie/main/dist/github-contribution-grid-snake.svg)
 
