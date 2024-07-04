@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 
 [![Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjtuyinjie)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的Github用户名&layout=compact&theme=tokyonight)
+
+
 <!--table><tr><td align="center" width="55%">
   
 [![Jie's github stats](https://github-readme-stats.vercel.app/api?username=sjtuyinjie&count_private=true&show_icons=true&theme=dark)](https://github.com/sjtuyinjie/github-readme-stats)
