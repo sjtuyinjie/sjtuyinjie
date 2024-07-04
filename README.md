@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg) visitor, thank you :stuck_out_tongue_winking_eye:
 
-[![Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjtuyinjie)](https://github.com/anuraghazra/github-readme-stats)
+[![Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJTU-ViSYS)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=sjtuyinjie&theme=dracula)
 
