@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg) visitor, thank you :stuck_out_tongue_winking_eye:
 
 <!--
-**sjtuyinjie/sjtuyinjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sjtuyinjie/sjtuyinjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg) visitor, thank you :stuck_out_tongue_winking_eye:
+
 
 
 
