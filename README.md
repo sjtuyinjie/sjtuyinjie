@@ -26,6 +26,24 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.s
 [![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+
+<table>
+  <tr>
+    <!-- GitHub Stats Card -->
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=SJTU-ViSYS" alt="Jie's GitHub stats">
+      </a>
+    </td>
+    <!-- Top Languages Card -->
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjtuyinjie&layout=compact&theme=tokyonight" alt="Top Langs">
+      </a>
+    </td>
+  </tr>
+</table>
+
 [![Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJTU-ViSYS)](https://github.com/anuraghazra/github-readme-stats)
 
 
