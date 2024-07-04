@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 😄 Hi, I'm Jie Yin, graduated from EE of Shanghai Jiao Tong University (SJTU) with a bachelor degree in 2021 and with a master degree in 2024. </br>
 🔭 My current research interests include Robotic learning, Embodied AI and Multi-sensor Fusion. </br>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg) visitor, thank you :stuck_out_tongue_winking_eye:
+
 
 [![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -44,7 +44,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.s
   </tr>
 </table>
 
-
+You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg) visitor, thank you :stuck_out_tongue_winking_eye:
 
 
 
