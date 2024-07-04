@@ -32,7 +32,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.s
     <!-- GitHub Stats Card -->
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=SJTU-ViSYS" alt="Jie's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=sjtuyinjie" alt="Jie's GitHub stats">
       </a>
     </td>
     <!-- Top Languages Card -->
