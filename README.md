@@ -44,14 +44,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.s
   </tr>
 </table>
 
-[![Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJTU-ViSYS)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtuyinjie&layout=compact&theme=tokyonight)
 
 
 
