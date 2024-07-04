@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🔭 My current research interests include Robotic learning, Embodied AI and Multi-sensor Fusion. </br>
 
 
-
+[![Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjtuyinjie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--table><tr><td align="center" width="55%">
   
