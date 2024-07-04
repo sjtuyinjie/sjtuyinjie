@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+😄 Hi, I'm Jie Yin, graduated from EE of Shanghai Jiao Tong University (SJTU) with a bachelor degree in 2021 and with a master degree in 2024. </br>
+🔭 My current research interests include Robotic learning, Embodied AI and Multi-sensor Fusion. </br>
+
+
+
+
+<!--table><tr><td align="center" width="55%">
+  
+[![Jie's github stats](https://github-readme-stats.vercel.app/api?username=sjtuyinjie&count_private=true&show_icons=true&theme=dark)](https://github.com/sjtuyinjie/github-readme-stats)
+
+</td><td align="top" width="45%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtuyinjie&layout=compact&theme=dark)](https://github.com/sjtuyinjie/github-readme-stats)
+
+</td></tr></table-->
