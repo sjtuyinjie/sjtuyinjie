@@ -25,8 +25,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.s
 
 [![Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJTU-ViSYS)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+[![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=sjtuyinjie&theme=react)
 
