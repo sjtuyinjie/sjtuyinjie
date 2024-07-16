@@ -1,4 +1,4 @@
-## Hi there 👋 You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg) visitor, thank you :stuck_out_tongue_winking_eye:
+## Hi there 👋 You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg) visitor!
 
 <!--
 **sjtuyinjie/sjtuyinjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
