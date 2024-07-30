@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ⭐️ My work have been accepted to top conferences/transactions on robotics/navigation such as **ICRA, IROS, RAL, CVPR, GPS Solutions** and so on. My highlighted projects include [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR), [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion), [**🔥DAF**](https://arxiv.org/abs/2407.11333), [EN-SLAM](https://github.com/DelinQu/EN-SLAM),[Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge), [Sky-GVINS](https://github.com/SJTU-ViSYS/Sky-GVINS) and so on, from which I received **over 1.7k github stars**. 
 
-🚩 Previously, I used to research at **[MIT-IBM Watson Lab](https://mitibmwatsonailab.mit.edu/), [HKU Mars Lab](https://github.com/hku-mars), [Tencent Robotics X Lab](https://roboticsx.tencent.com/#/), [Shanghai AI Lab](https://www.shlab.org.cn/) and [Shanghai Beidou Research Institute](http://www.bdi.org.cn/)**. Now I'm working as a research engineer on embodied AI at a robotics startup.
+🚩 Previously, I used to research at **[MIT-IBM Watson Lab](https://mitibmwatsonailab.mit.edu/), [HKU Mars Lab](https://github.com/hku-mars), [Tencent Robotics X Lab](https://roboticsx.tencent.com/#/), [Shanghai AI Lab](https://www.shlab.org.cn/) and [Shanghai Beidou Research Institute](http://www.bdi.org.cn/)**. Now I'm a senior engineer on embodied AI at a robotics startup.
 
 💬 If you are interested in reinforcement learning or embodied AI, welcom to mail me at 1195391308@qq.com
 
