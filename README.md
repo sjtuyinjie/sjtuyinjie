@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 🚩 Previously, I used to research at **[MIT-IBM Watson Lab](https://mitibmwatsonailab.mit.edu/), [HKU Mars Lab](https://github.com/hku-mars), [Tencent Robotics X Lab](https://roboticsx.tencent.com/#/), [Shanghai AI Lab](https://www.shlab.org.cn/) and [Shanghai Beidou Research Institute](http://www.bdi.org.cn/)**. For more information, visit my [**personal website**](https://sjtuyinjie.github.io/)
 
-💬 If you are interested in reinforcement learning or embodied AI, welcom to mail me at 1195391308@qq.com
+💬 If you are interested in robotic learning, SLAM or embodied AI, welcom to mail me at 1195391308@qq.com 
+灵巧手操作/人形机器人/强化学习/SLAM相关的学术或技术交流，欢迎加微信yj1195391308.
 
 
 [![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
