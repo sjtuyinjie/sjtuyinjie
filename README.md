@@ -52,7 +52,7 @@ I'm currently working on following topics. If you are interested in these topics
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - Simulation Platform: &nbsp; Isaac Gym; Isaac Sim (OIGE); Isaac Lab; MuJoCo; Pybullet
 - Sensors: &nbsp; LiDAR (Velodyne, Robosense, Livox, SLAMTec); Camera (Intel Realsense D435I&D455, PointGrey, Hikon, Indemind, Orbbec); IMU(Xsens series, Handsfree); GNSS(Ublox); Mocap System(Vicon)
-- Robots: &nbsp; Wheeled Robot(WheelTec, Agile); Robotic Arm (Franka, Flexiv, Realman); Robotic Hand (Inspire, Shadow)  
+- Robots: &nbsp; Wheeled Robot(WheelTec, Agile); Robotic Arm (Franka, Flexiv, Realman); Robotic Hand (Inspire, Shadow)
 - Some Projects I'm interested in: &nbsp; [Eureka](https://github.com/eureka-research/Eureka); [Curobo](https://github.com/NVlabs/curobo); [Bidexhands](https://github.com/PKU-MARL/DexterousHands); [Unidexgrasp++](https://github.com/PKU-EPIC/UniDexGrasp2); [Pykin](https://github.com/jdj2261/pykin); [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono); [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) and so on.
 
 ## 💬 机械臂规控/灵巧手操作/人形机器人/强化学习/SLAM相关的技术交流或学术合作，欢迎同行加微信yj1195391308 .
