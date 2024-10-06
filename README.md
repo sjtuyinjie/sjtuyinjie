@@ -1,3 +1,5 @@
+## 💬 机械臂规控/灵巧手操作/人形机器人/强化学习/SLAM相关的学术或技术交流，欢迎同行加微信yj1195391308 .
+
 ## Hi there 👋 You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg) visitor!
 
 <!--
@@ -28,6 +30,14 @@ My work have been accepted to top conferences/transactions on robotics/navigatio
  Previously, I used to research at **[MIT-IBM Watson Lab](https://mitibmwatsonailab.mit.edu/), [HKU Mars Lab](https://github.com/hku-mars), [Tencent Robotics X Lab](https://roboticsx.tencent.com/#/), [Shanghai AI Lab](https://www.shlab.org.cn/) and [Shanghai Beidou Research Institute](http://www.bdi.org.cn/)**. For more information, visit my [**personal website**](https://sjtuyinjie.github.io/)
 
 
+<h3> 🔭 &nbsp;Current Interests</h3>
+
+I'm currently working on following topics. If you are interested in these topics, welcom to mail me at 1195391308@qq.com or add my wechat yj1195391308 . 🤝🏻
+- &nbsp; Robotic Arm Control
+- &nbsp; Dexterous Hand Manipulation
+- &nbsp; Reinforcement Learning
+- &nbsp; SLAM
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -45,22 +55,9 @@ My work have been accepted to top conferences/transactions on robotics/navigatio
 - Robots: &nbsp; Wheeled Robot(WheelTec, Agile); Robotic Arm (Franka, Flexiv, Realman); Robotic Hand (Inspire, Shadow)  
 - Some Projects I'm interested in: &nbsp; [Eureka](https://github.com/eureka-research/Eureka); [Curobo](https://github.com/NVlabs/curobo); [Bidexhands](https://github.com/PKU-MARL/DexterousHands); [Unidexgrasp++](https://github.com/PKU-EPIC/UniDexGrasp2); [Pykin](https://github.com/jdj2261/pykin); [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono); [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) and so on.
 
-<h3> 🔭 &nbsp;Current Interests</h3>
-
-I'm currently working on following topics. If you are interested in these topics, welcom to mail me at 1195391308@qq.com or add my wechat yj1195391308 . 🤝🏻
-- &nbsp; Robotic Arm Control
-- &nbsp; Dexterous Hand Manipulation
-- &nbsp; Humanoid Robots
-- &nbsp; Reinforcement Learning
-- &nbsp; SLAM
-
-
-## 💬 机械臂规控/灵巧手操作/人形机器人/强化学习/SLAM相关的学术或技术交流，欢迎加微信yj1195391308 .
 
 
 [![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 <table>
   <tr>
