@@ -21,7 +21,7 @@ Hi, I'm Jie Yin, a senior engineer on embodied AI at a robotics startup. I gradu
 
 <h3> ⭐️ &nbsp;My Highlights</h3>
 
-My work have been accepted to top conferences/transactions on robotics/navigation such as **ICRA, IROS, RAL, CVPR, GPS Solutions** and so on. My highlighted projects include [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR), [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion), [**🔥DAF**](https://arxiv.org/abs/2407.11333), [EN-SLAM](https://github.com/DelinQu/EN-SLAM),[Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge), [Sky-GVINS](https://github.com/SJTU-ViSYS/Sky-GVINS) and so on, from which I received **over 1.6k github stars**. 
+My work have been accepted to top conferences/transactions on robotics/navigation such as **ICRA, IROS, RAL, CVPR, GPS Solutions** and so on. My highlighted projects include [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR), [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion), [**🔥DAF**](https://arxiv.org/abs/2407.11333), [EN-SLAM](https://github.com/DelinQu/EN-SLAM),[Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge), [Sky-GVINS](https://github.com/SJTU-ViSYS/Sky-GVINS) and so on, from which I received **over 1.6k github stars**. Also, I serve as a reviewer for ICRA, IROS, RA-L, TASE, and TRO.
 
 <h3> 🚩 &nbsp;Affiliations</h3>
 
@@ -46,6 +46,7 @@ My work have been accepted to top conferences/transactions on robotics/navigatio
 - Some Projects I'm interested in: &nbsp; [Eureka](https://github.com/eureka-research/Eureka); [Curobo](https://github.com/NVlabs/curobo); [Bidexhands](https://github.com/PKU-MARL/DexterousHands); [Unidexgrasp++](https://github.com/PKU-EPIC/UniDexGrasp2); [Pykin](https://github.com/jdj2261/pykin); [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono); [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) and so on.
 
 <h3> 🔭 &nbsp;Current Interests</h3>
+
 I'm currently working on following topics. If you are interested in these topics, welcom to mail me at 1195391308@qq.com or add my wechat yj1195391308 . 🤝🏻
 - &nbsp; Robotic Arm Control
 - &nbsp; Dexterous Hand Manipulation
