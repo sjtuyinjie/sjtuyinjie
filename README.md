@@ -41,7 +41,9 @@ My work have been accepted to top conferences/transactions on robotics/navigatio
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - Simulation Platform: &nbsp; Isaac Gym; Isaac Sim (OIGE); Isaac Lab; MuJoCo; Pybullet
-- Some Projects I'm familiar with: &nbsp; [Eureka](https://github.com/eureka-research/Eureka); [Curobo](https://github.com/NVlabs/curobo); [Bidexhands](https://github.com/PKU-MARL/DexterousHands); [Unidexgrasp++](https://github.com/PKU-EPIC/UniDexGrasp2); [Pykin](https://github.com/jdj2261/pykin); [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono); [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
+- Sensors: &nbsp; LiDAR (Velodyne, Robosense, Livox, SLAMTec); Camera (Intel Realsense D435I&D455, PointGrey, Hikon, Indemind, Orbbec); IMU(Xsens series, Handsfree); GNSS(Ublox); Mocap System(Vicon)
+- Robots: &nbsp; Wheeled Robot(WheelTec, Agile); Robotic Arm (Franka, Flexiv, Realman); Robotic Hand (Inspire, Shadow)  
+- Some Projects I'm familiar with: &nbsp; [Eureka](https://github.com/eureka-research/Eureka); [Curobo](https://github.com/NVlabs/curobo); [Bidexhands](https://github.com/PKU-MARL/DexterousHands); [Unidexgrasp++](https://github.com/PKU-EPIC/UniDexGrasp2); [Pykin](https://github.com/jdj2261/pykin); [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono); [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) and so on.
 
 <h3> 🔭 &nbsp;Current Interests</h3>
 I'm currently working on following topics. If you are interested in these topics, welcom to mail me at 1195391308@qq.com or add my wechat yj1195391308 . 🤝🏻
