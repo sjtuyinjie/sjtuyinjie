@@ -55,7 +55,6 @@ I'm currently working on following topics. If you are interested in these topics
 - Robots: &nbsp; Wheeled Robot(WheelTec, Agile); Robotic Arm (Franka, Flexiv, Realman); Robotic Hand (Inspire, Shadow)
 - Some Projects I'm interested in: &nbsp; [Eureka](https://github.com/eureka-research/Eureka); [Curobo](https://github.com/NVlabs/curobo); [Bidexhands](https://github.com/PKU-MARL/DexterousHands); [Unidexgrasp++](https://github.com/PKU-EPIC/UniDexGrasp2); [Pykin](https://github.com/jdj2261/pykin); [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono); [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) and so on.
 
-## 💬 机械臂规控/灵巧手操作/人形机器人/强化学习/SLAM相关的技术交流或学术合作，欢迎同行加微信yj1195391308 .
 
 [![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
