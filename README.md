@@ -63,7 +63,7 @@ I'm currently working on following topics. If you are interested in these topics
     <!-- GitHub Stats Card -->
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=sjtuyinjie" alt="Jie's GitHub stats" width="300" height="150">
+        <img src="https://github-readme-stats.vercel.app/api?username=sjtuyinjie" alt="Jie's GitHub stats" width="320" height="180">
       </a>
     </td>
     <!-- Top Languages Card -->
