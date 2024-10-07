@@ -57,27 +57,6 @@ I'm currently working on following topics. If you are interested in these topics
 
 [![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<table>
-  <tr>
-    <!-- GitHub Stats Card -->
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=sjtuyinjie" alt="Jie's GitHub stats">
-      </a>
-    </td>
-    <!-- Top Languages Card -->
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjtuyinjie&layout=compact&theme=tokyonight" alt="Top Langs">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-[![Clustermap](https://clustrmaps.com/map_v2.png?d=Q1RB1wfb6BorS8KuqpIRpW_FbECKfzQhf_8_ccJHcaI)](https://clustrmaps.com/site/1QwIu)
 
 <table>
   <tr>
@@ -103,26 +82,4 @@ I'm currently working on following topics. If you are interested in these topics
 </table>
 
 
-<table>
-  <tr>
-    <!-- GitHub Stats Card -->
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=sjtuyinjie" alt="Jie's GitHub stats" height="150">
-      </a>
-    </td>
-    <!-- Top Languages Card -->
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjtuyinjie&layout=compact&theme=tokyonight" alt="Top Langs" height="150">
-      </a>
-    </td>
-    <!-- Clustermap -->
-    <td>
-      <a href="https://clustrmaps.com/site/1QwIu">
-        <img src="https://clustrmaps.com/map_v2.png?d=Q1RB1wfb6BorS8KuqpIRpW_FbECKfzQhf_8_ccJHcaI" alt="Clustermap" height="150">
-      </a>
-    </td>
-  </tr>
-</table>
 
