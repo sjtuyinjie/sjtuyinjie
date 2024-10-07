@@ -75,7 +75,7 @@ I'm currently working on following topics. If you are interested in these topics
 </table>
 
 
-
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Q1RB1wfb6BorS8KuqpIRpW_FbECKfzQhf_8_ccJHcaI"></script>
 
 
 
