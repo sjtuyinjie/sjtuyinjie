@@ -75,9 +75,9 @@ I'm currently working on following topics. If you are interested in these topics
 </table>
 
 
-### Clustermap
 
-你可以通过点击下方的链接来查看 Clustermap:
+
+Check following link to get my Clustermap:
 
 [![Clustermap](https://clustrmaps.com/map_v2.png?d=Q1RB1wfb6BorS8KuqpIRpW_FbECKfzQhf_8_ccJHcaI)](https://clustrmaps.com/site/1QwIu)
 
