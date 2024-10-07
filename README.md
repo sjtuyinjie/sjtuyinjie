@@ -75,7 +75,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <!-- Clustermap -->
     <td>
       <a href="https://clustrmaps.com/site/1QwIu">
-        <img src="https://clustrmaps.com/map_v2.png?d=Q1RB1wfb6BorS8KuqpIRpW_FbECKfzQhf_8_ccJHcaI" alt="Clustermap" width="250" height="150">
+        <img src="https://clustrmaps.com/map_v2.png?d=Q1RB1wfb6BorS8KuqpIRpW_FbECKfzQhf_8_ccJHcaI&t=tt" alt="Clustermap" width="250" height="150">
       </a>
     </td>
   </tr>
