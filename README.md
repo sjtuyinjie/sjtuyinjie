@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3> 😄 &nbsp;About Me</h3>
 
-Hi, I'm Jie Yin, a research engineer on robotics and embodied AI. I graduated from **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)(上海交通大学)** with a bachelor degree in 2021 and with a master degree in 2024. My current research interests include Robotic learning, Embodied AI and Multi-sensor Fusion. 
+Hi, I'm Jie Yin.
 
 <h3> ⭐️ &nbsp;My Highlights</h3>
 
