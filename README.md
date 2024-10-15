@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3> 😄 &nbsp;About Me</h3>
 
-Hi, I'm Jie Yin
+Hi, I'm Jie Yin from Shanghai Jiao Tong University.
 
 <h3> ⭐️ &nbsp;My Highlights</h3>
 
