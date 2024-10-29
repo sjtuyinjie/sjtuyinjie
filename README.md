@@ -35,8 +35,9 @@ My work have been accepted to top conferences/transactions on robotics/navigatio
 I'm currently working on following topics. If you want to collaborate, welcom to mail me at 1195391308@qq.com or add my wechat yj1195391308 . 🤝🏻
 - &nbsp; Robotic Arm Control
 - &nbsp; Dexterous Hand Manipulation
+- &nbsp; Mobile Manipulation
 - &nbsp; Reinforcement Learning
-- &nbsp; SLAM
+- &nbsp; SLAM in Corner Cases
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
