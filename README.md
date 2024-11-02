@@ -23,7 +23,7 @@ Hi, I'm Jie Yin from Shanghai Jiao Tong University.
 
 <h3> ⭐️ &nbsp;My Highlights</h3>
 
-My work have been accepted to top conferences/transactions on robotics/navigation such as **ICRA, IROS, RAL, CVPR, GPS Solutions** and so on. My highlighted projects include [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR), [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion), [**🔥DAF**](https://arxiv.org/abs/2407.11333), [EN-SLAM](https://github.com/DelinQu/EN-SLAM),[Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge), [Sky-GVINS](https://github.com/SJTU-ViSYS/Sky-GVINS) and so on, from which I received **over 1.8k github stars**. Also, I served as a reviewer for ICRA, IROS, RA-L, TASE, and TRO.
+My work have been accepted to top conferences/transactions on robotics/navigation such as **ICRA, IROS, RAL, CVPR, GPS Solutions** and so on. My highlighted projects include [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR), [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion), [**🔥DAF**](https://arxiv.org/abs/2407.11333), [EN-SLAM](https://github.com/DelinQu/EN-SLAM),[Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge), [Sky-GVINS](https://github.com/SJTU-ViSYS/Sky-GVINS) and so on, from which I received **over 1.9k github stars**. Also, I served as a reviewer for ICRA, IROS, RA-L, TASE, and TRO.
 
 <h3> 🚩 &nbsp;Affiliations</h3>
 
