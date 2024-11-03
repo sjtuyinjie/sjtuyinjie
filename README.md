@@ -37,7 +37,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 - &nbsp; Dexterous Hand Manipulation
 - &nbsp; Mobile Manipulation
 - &nbsp; Reinforcement Learning
-- &nbsp; SLAM in Corner Cases
+- &nbsp; SLAM for Corner Cases
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
