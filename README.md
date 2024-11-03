@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <h3> 😄 &nbsp;About Me</h3>
 
-Hi, I'm Jie Yin from Shanghai Jiao Tong University.
+
+Hi, I'm Jie Yin, a research engineer on robotics, graduated from **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)(上海交通大学)** with a B.Eng. degree and a M.Eng degree. My current research interests include Robotic learning, Embodied AI and Multi-sensor Fusion. 
 
 <h3> ⭐️ &nbsp;My Highlights</h3>
 
