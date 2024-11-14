@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 
 <h3> 😄 &nbsp;About Me</h3>
 
+[![Website](https://img.shields.io/badge/Doc-FFA500?style=flat&logo=rss&logoColor=white)](https://sjtuyinjie.github.io/)
+[![Google Scholar](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://scholar.google.com/citations?user=Y8LVRYIAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:robot_yinjie@outlook.com)
+<a href="https://github.com/sjtuyinjie">
+<img src="https://badges.strrl.dev/years/unitreerobotics?style=flat-square&logo=github">
+</a>
+<a href="https://github.com/sjtuyinjie?tab=repositories">
+<img src="https://badges.strrl.dev/repos/unitreerobotics?style=flat-square&logo=github">
+</a>
 
 Hi, I'm Jie Yin, a research engineer on robotics, received both my B.Eng. degree and M.Eng degree from **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)(上海交通大学)**. My current research interests include Robotic learning, Embodied AI and Sensor Fusion. 
 
