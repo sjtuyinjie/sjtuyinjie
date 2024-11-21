@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://badges.strrl.dev/repos/sjtuyinjie?style=flat-square&logo=github">
 </a>
 
-Hi, I'm Jie Yin, a research engineer on robotics, received both my B.Eng. degree and M.Eng degree from **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)(上海交通大学)**. My current research interests include Robotic learning, Embodied AI and Sensor Fusion. 
+Hi, I'm Jie Yin, a research engineer specializing in robotics, received both my B.Eng. degree and M.Eng degree from **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)(上海交通大学)**. My current research interests include Robotic learning, Embodied AI and Sensor Fusion. I am particularly passionate about improving the performance of [multi-source fusion SLAM algorithms](https://github.com/SJTU-ViSYS/Sky-GVINS) under [corner cases](https://github.com/SJTU-ViSYS/Ground-Fusion) with [comprehensive benchmarks](https://github.com/SJTU-ViSYS/M2DGR). Additionally, I am currently working on **dexterous manipulation with locomotion and robotic arm control**.
 
 <h3> ⭐️ &nbsp;My Highlights</h3>
 
