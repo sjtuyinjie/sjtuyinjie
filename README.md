@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 <h3> 😄 &nbsp;About Me</h3>
 
-[![Website](https://img.shields.io/badge/Website-green?style=flat)](https://sjtuyinjie.github.io/)
+[![Website](https://img.shields.io/badge/Website-yellow?style=flat)](https://sjtuyinjie.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-blue?style=flat
 )](https://scholar.google.com/citations?user=Y8LVRYIAAAAJ&hl=en)
+[![Wechat](https://img.shields.io/badge/Wechat-green?style=flat)](https://github.com/sjtuyinjie/sjtuyinjie/blob/main/assets/wechat.jpg)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:robot_yinjie@outlook.com)
 <a href="https://github.com/sjtuyinjie">
 <img src="https://badges.strrl.dev/years/sjtuyinjie?style=flat-square&logo=github">
@@ -34,7 +35,7 @@ Hi, I'm Jie Yin, a research engineer specializing in robotics, received both my 
 
 <h3> ⭐️ &nbsp;My Highlights</h3>
 
-My work have been accepted to top conferences/transactions on robotics/navigation such as **ICRA, IROS, RAL, CVPR, GPS Solutions** and so on. My highlighted projects include [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR), [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion), [**🔥DAF**](https://arxiv.org/abs/2407.11333), [EN-SLAM](https://github.com/DelinQu/EN-SLAM),[Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge), [Sky-GVINS](https://github.com/SJTU-ViSYS/Sky-GVINS) and so on, from which I received **over 2k github stars**. Also, I served as a reviewer for ICRA, IROS, RA-L, TASE, and TRO.
+My work have been accepted to top conferences/transactions on robotics/navigation such as **ICRA, IROS, RAL, CVPR, GPS Solutions** and so on. My highlighted projects include [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR), [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion), [**🔥DAF**](https://arxiv.org/abs/2407.11333), [EN-SLAM](https://github.com/DelinQu/EN-SLAM),[Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge), [Sky-GVINS](https://github.com/SJTU-ViSYS/Sky-GVINS) and so on, from which I received **over 2k github stars**. Also, I served as a reviewer for ICRA, IROS, RA-L, TASE, and TRO. Open to collaboration.
 
 <h3> 🚩 &nbsp;Affiliations</h3>
 
