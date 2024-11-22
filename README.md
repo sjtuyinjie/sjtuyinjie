@@ -44,7 +44,7 @@ My works have been accepted to top conferences/transactions on robotics/navigati
 
 <h3> 🔭 &nbsp;Current Interests</h3>
 
-I'm currently working on following topics. If you want to collaborate, welcom to mail me at robot_yinjie@outlook.com or add my wechat yj1195391308 . 🤝🏻
+I'm currently working on following topics. If you want to collaborate, welcom to mail me at robot_yinjie@outlook.com. 🤝🏻
 - &nbsp; Robotic Arm Control
 - &nbsp; Dexterous Hand Manipulation
 - &nbsp; Mobile Manipulation
