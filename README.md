@@ -101,9 +101,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=sjtuyinjie&theme=radical">
 </a>
-<a href="https://github.com/sjtuyinjie">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</a>
+
 
 [![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
