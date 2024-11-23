@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/sjtuyinjie?tab=repositories">
 <img src="https://badges.strrl.dev/repos/sjtuyinjie?style=flat-square&logo=github">
 </a>
-<a href="https://github.com/sjtuyinjie">
-<img src="https://badges.strrl.dev/contributions/sjtuyinjie?style=flat-square&logo=github">
-</a>
+
+
+
 
 
 Hi, I'm Jie Yin, a research engineer specializing in robotics, received both my B.Eng. degree and M.Eng degree from **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)(上海交通大学)**. My research interests lie at the intersection of Robotic Learning, Embodied AI, and Sensor Fusion, with a particular focus on advancing the performance of [multi-sensor fusion SLAM algorithms](https://github.com/SJTU-ViSYS/Sky-GVINS) under [corner cases](https://github.com/SJTU-ViSYS/Ground-Fusion) with [comprehensive benchmarks](https://github.com/SJTU-ViSYS/M2DGR). Recently, I have been exploring **dexterous manipulation with locomotion** and **robotic arm control**. 
@@ -97,6 +97,13 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     </td>
   </tr>
 </table>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=sjtuyinjie&theme=radical">
+</a>
+<a href="https://github.com/sjtuyinjie">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</a>
 
 [![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
