@@ -75,49 +75,16 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 
 
 
-<table>
-  <tr>
-    <!-- GitHub Stats Card -->
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=sjtuyinjie" alt="Jie's GitHub stats" width="320" height="180">
-      </a>
-    </td>
-    <!-- Top Languages Card -->
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjtuyinjie&layout=compact&theme=tokyonight" alt="Top Langs" width="300" height="150">
-      </a>
-    </td>
-    <!-- Clustermap -->
-    <td>
-      <a href="https://clustrmaps.com/site/1QwIu">
-        <img src="https://clustrmaps.com/map_v2.png?d=Q1RB1wfb6BorS8KuqpIRpW_FbECKfzQhf_8_ccJHcaI&t=tt" alt="Clustermap" width="250" height="150">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=sjtuyinjie&theme=radical&column=9">
-</a>
 
 
 
-[![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-<div>
-    <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width="20" height="20" style="display:inline-block; vertical-align:top;">
-    <span style="display:inline-block; vertical-align:top;">Your GitHub Projects</span> 
-</div>
+<h3> 🔥 &nbsp;Github Projects</h3>
 
 <table class="table table-striped table-bordered table-vcenter"/>
 <tbody>
 <tr><th>Title</th><th>Description</th><th>Stars</th><th>Forks</th></tr>
 <tr>
-    <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
+    <td colspan="1" rowspan="5" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://github.com/SJTU-ViSYS" target="_blank">SLAM Benchmarks</a>
     </td>
     <td><a href="https://github.com/SJTU-ViSYS/M2DGR" target="_blank">M2DGR</a><br>M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (RA-L & ICRA2022)</td>
@@ -128,6 +95,11 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><a href="https://github.com/SJTU-ViSYS/M2DGR-plus" target="_blank">M2DGR-plus</a><br>M2DGR-plus: Extension and update of M2DGR, a novel Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (ICRA2022 & ICRA2024)</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/SJTU-ViSYS/M2DGR-plus?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/M2DGR-plus?style=flat-square"/></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/sjtuyinjie/M2DGR-Benchmark" target="_blank">M2DGR-Benchmark</a><br>A benchmark based on M2DGR and M2DGR-plus dataset with adapted SOTA SLAM algorithms </td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/M2DGR-Benchmark?style=flat-square"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/M2DGR-Benchmark?style=flat-square"/></td>
 </tr>
 <tr>
     <td><a href="https://github.com/sjtuyinjie/Ground-Challenge" target="_blank">Ground-Challenge</a><br>Ground-Challenge: A Multi-sensor SLAM Dataset Focusing on Corner Cases for Ground Robots(ROBIO2023)</td>
@@ -189,5 +161,36 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 </table>
 
 
+<h3> 🎯 &nbsp;Records</h3>
 
+<table>
+  <tr>
+    <!-- GitHub Stats Card -->
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=sjtuyinjie" alt="Jie's GitHub stats" width="320" height="180">
+      </a>
+    </td>
+    <!-- Top Languages Card -->
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjtuyinjie&layout=compact&theme=tokyonight" alt="Top Langs" width="300" height="150">
+      </a>
+    </td>
+    <!-- Clustermap -->
+    <td>
+      <a href="https://clustrmaps.com/site/1QwIu">
+        <img src="https://clustrmaps.com/map_v2.png?d=Q1RB1wfb6BorS8KuqpIRpW_FbECKfzQhf_8_ccJHcaI&t=tt" alt="Clustermap" width="250" height="150">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=sjtuyinjie&theme=radical&column=9">
+</a>
+
+
+
+[![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
