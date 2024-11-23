@@ -84,6 +84,29 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 <tbody>
 <tr><th>Title</th><th>Description</th><th>Stars</th><th>Forks</th></tr>
 <tr>
+    <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <a href="https://github.com/SJTU-ViSYS" target="_blank">Cutting-edge Algorithms</a>
+    </td>
+    <td><a href="https://github.com/SJTU-ViSYS/Ground-Fusion" target="_blank">Ground-Fusion</a><br>Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases (ICRA2024)</td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/SJTU-ViSYS/Ground-Fusion?style=flat-square"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/Ground-Fusion?style=flat-square"/></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/sjtuyinjie/DAF" target="_blank">DAF</a><br>Disentangled Acoustic Fields For Multimodal Physical Scene Understanding (IROS2024)</td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/DAF?style=flat-square"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/DAF?style=flat-square"/></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/DelinQu/EN-SLAM" target="_blank">EN-SLAM</a><br>Implicit Event-RGBD Neural SLAM(CVPR2024)</td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/DelinQu/EN-SLAM?style=flat-square"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/DelinQu/EN-SLAM?style=flat-square"/></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/SJTU-ViSYS/Sky-GVINS" target="_blank">Sky-GVINS</a><br>Sky-GVINS: a Sky-segmentation Aided GNSS-Visual-Inertial System for Navigation in Urban Canyons(Geo-spatial Information and Science2023)</td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/SJTU-ViSYS/Sky-GVINS?style=flat-square"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/Sky-GVINS?style=flat-square"/></td>
+</tr>
+<tr>
     <td colspan="1" rowspan="5" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://github.com/SJTU-ViSYS" target="_blank">SLAM Benchmarks</a>
     </td>
@@ -110,24 +133,6 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><a href="https://github.com/sjtuyinjie/SJTU_GVI" target="_blank">SJTU_GVI</a><br>A GNSS-Visual-IMU benchmark Dataset for SLAM. Test dataset for M2C-VIO.</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/SJTU_GVI?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/SJTU_GVI?style=flat-square"/></td>
-</tr>
-<tr>
-    <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
-        <a href="https://github.com/SJTU-ViSYS" target="_blank">Cutting-edge Algorithms</a>
-    </td>
-    <td><a href="https://github.com/SJTU-ViSYS/Ground-Fusion" target="_blank">Ground-Fusion</a><br>Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases (ICRA2024)</td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/SJTU-ViSYS/Ground-Fusion?style=flat-square"/></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/Ground-Fusion?style=flat-square"/></td>
-</tr>
-<tr>
-    <td><a href="https://github.com/sjtuyinjie/DAF" target="_blank">DAF</a><br>Disentangled Acoustic Fields For Multimodal Physical Scene Understanding (IROS2024)</td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/DAF?style=flat-square"/></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/DAF?style=flat-square"/></td>
-</tr>
-<tr>
-    <td><a href="https://github.com/SJTU-ViSYS/Sky-GVINS" target="_blank">Sky-GVINS</a><br>Sky-GVINS: a Sky-segmentation Aided GNSS-Visual-Inertial System for Navigation in Urban Canyons(Geo-spatial Information and Science2023)</td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/SJTU-ViSYS/Sky-GVINS?style=flat-square"/></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/Sky-GVINS?style=flat-square"/></td>
 </tr>
 <tr>
     <td colspan="1" rowspan="5" align="center" class="ai-notebooks-table-points ai-orange-link">
