@@ -40,7 +40,7 @@ My works have been accepted to top conferences/transactions on robotics/navigati
 
 <h3> 🚩 &nbsp;Affiliations</h3>
 
- Previously, I used to research at **[MIT-IBM Watson Lab](https://mitibmwatsonailab.mit.edu/), [HKU Mars Lab](https://github.com/hku-mars), [Tencent Robotics X Lab](https://roboticsx.tencent.com/#/), [Shanghai AI Lab](https://www.shlab.org.cn/) and [Shanghai Beidou Research Institute](http://www.bdi.org.cn/)**. For more information, visit my [**personal website**](https://sjtuyinjie.github.io/)
+I'm a self-motivated research engineer on robotics. Previously, I used to research at **[MIT-IBM Watson Lab](https://mitibmwatsonailab.mit.edu/), [HKU Mars Lab](https://github.com/hku-mars), [Tencent Robotics X Lab](https://roboticsx.tencent.com/#/), [Shanghai AI Lab](https://www.shlab.org.cn/) and [Shanghai Beidou Research Institute](http://www.bdi.org.cn/)**. For more information, visit my [**personal website**](https://sjtuyinjie.github.io/)
 
 
 <h3> 🔭 &nbsp;Current Interests</h3>
