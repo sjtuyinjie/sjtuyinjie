@@ -99,8 +99,9 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 </table>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=sjtuyinjie&theme=radical">
+<img src="https://github-profile-trophy.vercel.app/?username=sjtuyinjie&theme=radical&column=9">
 </a>
+
 
 
 [![Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjtuyinjie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
