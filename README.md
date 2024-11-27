@@ -78,7 +78,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 
 
 
-<h3> 🔥 &nbsp;Github Projects</h3>
+<h3> 🔥 &nbsp;Featured Projects</h3>
 
 <table class="table table-striped table-bordered table-vcenter"/>
 <tbody>
