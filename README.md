@@ -87,12 +87,12 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://github.com/SJTU-ViSYS" target="_blank">Cutting-edge Algorithms</a>
     </td>
-    <td><a href="https://github.com/SJTU-ViSYS/Ground-Fusion" target="_blank">Ground-Fusion</a><br>Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases (ICRA2024)</td>
+    <td><a href="https://github.com/SJTU-ViSYS/Ground-Fusion" target="_blank">⚡Ground-Fusion</a><br>Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases (ICRA2024)</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/SJTU-ViSYS/Ground-Fusion?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/Ground-Fusion?style=flat-square"/></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/sjtuyinjie/DAF" target="_blank">DAF</a><br>Disentangled Acoustic Fields For Multimodal Physical Scene Understanding (IROS2024)</td>
+    <td><a href="https://github.com/sjtuyinjie/DAF" target="_blank">DAF</a><br>⚡Disentangled Acoustic Fields For Multimodal Physical Scene Understanding (IROS2024)</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/DAF?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/DAF?style=flat-square"/></td>
 </tr>
@@ -110,12 +110,12 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td colspan="1" rowspan="5" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://github.com/SJTU-ViSYS" target="_blank">SLAM Benchmarks</a>
     </td>
-    <td><a href="https://github.com/SJTU-ViSYS/M2DGR" target="_blank">M2DGR</a><br>M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (RA-L & ICRA2022)</td>
+    <td><a href="https://github.com/SJTU-ViSYS/M2DGR" target="_blank">M2DGR</a><br>⚡M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (RA-L & ICRA2022)</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/SJTU-ViSYS/M2DGR?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/M2DGR?style=flat-square"/></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/SJTU-ViSYS/M2DGR-plus" target="_blank">M2DGR-plus</a><br>M2DGR-plus: Extension and update of M2DGR, a novel Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (ICRA2022 & ICRA2024)</td>
+    <td><a href="https://github.com/SJTU-ViSYS/M2DGR-plus" target="_blank">⚡M2DGR-plus</a><br>M2DGR-plus: Extension and update of M2DGR, a novel Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (ICRA2022 & ICRA2024)</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/SJTU-ViSYS/M2DGR-plus?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/M2DGR-plus?style=flat-square"/></td>
 </tr>
@@ -138,7 +138,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td colspan="1" rowspan="5" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://github.com/sjtuyinjie" target="_blank">Awesome Lists</a>
     </td>
-    <td><a href="https://github.com/robotlearning123/awesome-isaac-gym" target="_blank">awesome-isaac-gym</a><br>A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources</td>
+    <td><a href="https://github.com/robotlearning123/awesome-isaac-gym" target="_blank">⚡awesome-isaac-gym</a><br>A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/robotlearning123/awesome-isaac-gym?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/robotlearning123/awesome-isaac-gym?style=flat-square"/></td>
 </tr>
