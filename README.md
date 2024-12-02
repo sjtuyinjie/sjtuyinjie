@@ -1,6 +1,6 @@
 
 
-## Hi there 👋 You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg) visitor!
+## Hi there 👋 I'm Jie Yin. You are my ![Visitor Count](https://profile-counter.glitch.me/sjtuyinjie/count.svg) visitor!
 
 <!--
 **sjtuyinjie/sjtuyinjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
