@@ -49,12 +49,11 @@ I'm a self-motivated research engineer on robotics. Previously, I used to resear
 <h3> 🔭 &nbsp;Current Interests</h3>
 
 I'm currently working on following topics. If you want to collaborate, welcom to mail me at robot_yinjie@outlook.com. 🤝🏻
-- &nbsp; Robotic Arm Control
 - &nbsp; Dexterous Hand Manipulation
 - &nbsp; Mobile Manipulation
 - &nbsp; Reinforcement Learning
 - &nbsp; SLAM for Corner Cases
-
+- &nbsp; Robotic Arm Control
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
