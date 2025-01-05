@@ -69,9 +69,6 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 - Simulation Platform: &nbsp; Isaac Gym; Isaac Sim (OIGE); Isaac Lab; MuJoCo; Pybullet
 - Sensors: &nbsp; LiDAR (Velodyne, Robosense, Livox, RP Lidar); Camera (Intel Realsense D435I&D455, PointGrey, Hikon, Indemind, Orbbec); IMU(Xsens series, Handsfree); GNSS(Ublox); Mocap System(Vicon)
 - Robots: &nbsp; Wheeled Robot(WheelTec, Agile); Robotic Arm (Franka, Flexiv, Realman); Robotic Hand (Inspire, Shadow)
-- Some Projects I'm interested in: &nbsp; [Eureka](https://github.com/eureka-research/Eureka); [Curobo](https://github.com/NVlabs/curobo); [Bidexhands](https://github.com/PKU-MARL/DexterousHands); [Unidexgrasp++](https://github.com/PKU-EPIC/UniDexGrasp2); [VINS-Mono series](https://github.com/HKUST-Aerial-Robotics/VINS-Mono); [LOAM series](https://github.com/HKUST-Aerial-Robotics/A-LOAM) and so on.
-
-
 
 
 
