@@ -41,13 +41,13 @@ Hi, I'm Jie Yin(殷杰), a self-motivated research engineer specializing in robo
 
 My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVPR, TRO, and GPS Solutions**. My highlighted projects include:
 
-- [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) (**RA-L'2021, ESI HIGHLY CITED PAPER, TOP 1%**)
-- [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion)(**ICRA'2024**)
-- [**DAF**](https://arxiv.org/abs/2407.11333)(**IROS'2024**)
-- [**EN-SLAM**](https://github.com/DelinQu/EN-SLAM)(**CVPR'2024 Highlight**)
-- [**LIGO**](https://github.com/Joanna-HE/LIGO.)(**TRO'2025**)
-- [**Sky-GVINS**](https://github.com/SJTU-ViSYS/Sky-GVINS)(GSIS'2024)
-- [**Ground-Challenge**](https://github.com/sjtuyinjie/Ground-Challenge)(ROBIO'2023)
+- [**🔥[RA-L'2021] M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) (**ESI HIGHLY CITED PAPER, TOP 1%**)
+- [**🔥[ICRA'2024] Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion)
+- [**[IROS'2024] DAF**](https://arxiv.org/abs/2407.11333)
+- [**[CVPR'2024 Highlight] EN-SLAM**](https://github.com/DelinQu/EN-SLAM)
+- [**[TRO'2025] LIGO**](https://github.com/Joanna-HE/LIGO.)
+- [**[GSIS'2024] Sky-GVINS**](https://github.com/SJTU-ViSYS/Sky-GVINS)
+- [**[ROBIO'2023] Ground-Challenge**](https://github.com/sjtuyinjie/Ground-Challenge)
 
  In addition, I have curated high-quality resources on robotics, including:
 - [**awesome-Lidar-visual-slam**](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM)
