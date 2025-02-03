@@ -43,7 +43,7 @@ My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVP
 
 - [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) (**RA-L2021, ESI HIGHLY CITED PAPER, TOP 1%**)
 - [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion)(**ICRA2024**)
-- [**🔥DAF**](https://arxiv.org/abs/2407.11333)(**IROS2024**)
+- [**DAF**](https://arxiv.org/abs/2407.11333)(**IROS2024**)
 - [**EN-SLAM**](https://github.com/DelinQu/EN-SLAM)(**CVPR2024 Highlight**)
 - [**LIGO**](https://github.com/Joanna-HE/LIGO.)(**TRO2025**)
 - [**Sky-GVINS**](https://github.com/SJTU-ViSYS/Sky-GVINS)(GSIS2024)
