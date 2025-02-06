@@ -52,7 +52,7 @@ My co-authored highlight works include:
 - [**[TRO'2025] LIGO**](https://github.com/Joanna-HE/LIGO.)
 
 
- In addition, I have curated high-quality resources on robotics, including:
+ In addition, I have curated high-quality resources on robotics for literature review, including:
 - [**awesome-Lidar-visual-slam**](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM)
 - [**awesome-grasp-list**](https://github.com/sjtuyinjie/Awesome-Grasp-List)
 - [**awesome-isaac-gym**](https://github.com/robotlearning123/awesome-isaac-gym)
