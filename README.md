@@ -39,15 +39,18 @@ Hi, I'm Jie Yin(殷杰), a self-motivated research engineer specializing in robo
 
 <h3> ⭐️ &nbsp;Research Highlights</h3>
 
-My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVPR, TRO, and GPS Solutions**. My highlighted research include:
+My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVPR, TRO, and GPS Solutions**. Highlighted research led by me include:
 
 - [**🔥[RA-L'2021] M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) (**ESI HIGHLY CITED PAPER, TOP 1%**)
 - [**🔥[ICRA'2024] Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion)
 - [**[IROS'2024] DAF**](https://arxiv.org/abs/2407.11333)
-- [**[CVPR'2024 Highlight] EN-SLAM**](https://github.com/DelinQu/EN-SLAM)
-- [**[TRO'2025] LIGO**](https://github.com/Joanna-HE/LIGO.)
 - [**[GSIS'2024] Sky-GVINS**](https://github.com/SJTU-ViSYS/Sky-GVINS)
 - [**[ROBIO'2023] Ground-Challenge**](https://github.com/sjtuyinjie/Ground-Challenge)
+
+My co-authored highlight works include:
+- [**[CVPR'2024 Highlight] EN-SLAM**](https://github.com/DelinQu/EN-SLAM)
+- [**[TRO'2025] LIGO**](https://github.com/Joanna-HE/LIGO.)
+
 
  In addition, I have curated high-quality resources on robotics, including:
 - [**awesome-Lidar-visual-slam**](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM)
