@@ -42,13 +42,13 @@ Hi, I'm Jie Yin(殷杰), a self-motivated research engineer specializing in robo
 My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVPR, TRO, and GPS Solutions**. Highlighted research led by me include:
 
 - 01.2025 [**M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) is awarded **ESI HIGHLY CITED PAPER (TOP 1%)**!
-- 01.2025 [**LIGO**](https://github.com/Joanna-HE/LIGO.) is accepted to **TRO'2025(JCR Q1)**! [paper here](https://ieeexplore.ieee.org/abstract/document/10842473)
+- 01.2025 [**LIGO**](https://github.com/Joanna-HE/LIGO.) is accepted to **TRO'2025(JCR Q1)**! [[paper here](https://ieeexplore.ieee.org/abstract/document/10842473)]
 - 06.2024 DAF is accepted to **IROS'2024**! [paper here](https://ieeexplore.ieee.org/abstract/document/10802429/)
-- 03.2024 [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion) is accepted to **ICRA'2024**! [paper here](https://ieeexplore.ieee.org/document/10610070/)
-- 03.2024 [**EN-SLAM**](https://github.com/DelinQu/EN-SLAM) is accepted to **CVPR'2024(Highlight)**! [paper here](https://openaccess.thecvf.com/content/CVPR2024/html/Qu_Implicit_Event-RGBD_Neural_SLAM_CVPR_2024_paper.html)
-- 03.2024 Innovation-KF is accepted to **GPS Solutions'2024(JCR Q1)**! [paper here](https://link.springer.com/article/10.1007/s10291-024-01623-9)
-- 08.2023 M2C-GVIO is accepted to **Satellite Navigation'2023(JCR Q1)**! [paper here](https://link.springer.com/article/10.1186/s43020-023-00102-9)
-- 12.2021 [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) is accepted to **RA-L'2021(JCR Q1) and ICRA'2022**! [paper here](https://ieeexplore.ieee.org/abstract/document/9664374)
+- 03.2024 [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion) is accepted to **ICRA'2024**! [[paper here](https://ieeexplore.ieee.org/document/10610070/)]
+- 03.2024 [**EN-SLAM**](https://github.com/DelinQu/EN-SLAM) is accepted to **CVPR'2024(Highlight)**! [[paper here](https://openaccess.thecvf.com/content/CVPR2024/html/Qu_Implicit_Event-RGBD_Neural_SLAM_CVPR_2024_paper.html)]
+- 03.2024 Innovation-KF is accepted to **GPS Solutions'2024(JCR Q1)**! [[paper here](https://link.springer.com/article/10.1007/s10291-024-01623-9)]
+- 08.2023 M2C-GVIO is accepted to **Satellite Navigation'2023(JCR Q1)**! [[paper here](https://link.springer.com/article/10.1186/s43020-023-00102-9)]
+- 12.2021 [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) is accepted to **RA-L'2021(JCR Q1) and ICRA'2022**! [[paper here](https://ieeexplore.ieee.org/abstract/document/9664374)]
 
 
 
