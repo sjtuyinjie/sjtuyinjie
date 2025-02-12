@@ -43,7 +43,7 @@ My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVP
 
 - 01.2025 [**M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) is awarded **ESI HIGHLY CITED PAPER (TOP 1%)**!
 - 01.2025 [**LIGO**](https://github.com/Joanna-HE/LIGO.) is accepted to **TRO'2025(JCR Q1)**! [[paper here](https://ieeexplore.ieee.org/abstract/document/10842473)]
-- 06.2024 DAF is accepted to **IROS'2024**! [paper here](https://ieeexplore.ieee.org/abstract/document/10802429/)
+- 06.2024 DAF is accepted to **IROS'2024**! [[paper here](https://ieeexplore.ieee.org/abstract/document/10802429/)]
 - 03.2024 [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion) is accepted to **ICRA'2024**! [[paper here](https://ieeexplore.ieee.org/document/10610070/)]
 - 03.2024 [**EN-SLAM**](https://github.com/DelinQu/EN-SLAM) is accepted to **CVPR'2024(Highlight)**! [[paper here](https://openaccess.thecvf.com/content/CVPR2024/html/Qu_Implicit_Event-RGBD_Neural_SLAM_CVPR_2024_paper.html)]
 - 03.2024 Innovation-KF is accepted to **GPS Solutions'2024(JCR Q1)**! [[paper here](https://link.springer.com/article/10.1007/s10291-024-01623-9)]
