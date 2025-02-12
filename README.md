@@ -48,6 +48,7 @@ My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVP
 - 03.2024 [**EN-SLAM**](https://github.com/DelinQu/EN-SLAM) is accepted to **CVPR'2024(Highlight)**! [[paper here](https://openaccess.thecvf.com/content/CVPR2024/html/Qu_Implicit_Event-RGBD_Neural_SLAM_CVPR_2024_paper.html)]
 - 03.2024 Innovation-KF is accepted to **GPS Solutions'2024(JCR Q1)**! [[paper here](https://link.springer.com/article/10.1007/s10291-024-01623-9)]
 - 08.2023 M2C-GVIO is accepted to **Satellite Navigation'2023(JCR Q1)**! [[paper here](https://link.springer.com/article/10.1186/s43020-023-00102-9)]
+- 08.2023 Sky-GVINS is accepted to **Geo-spatial Information Science'2023(JCR Q1)**! [[paper here](https://www.tandfonline.com/doi/abs/10.1080/10095020.2023.2191649)]
 - 12.2021 [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) is accepted to **RA-L'2021(JCR Q1) and ICRA'2022**! [[paper here](https://ieeexplore.ieee.org/abstract/document/9664374)]
 
 
