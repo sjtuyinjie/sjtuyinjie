@@ -72,7 +72,6 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 - &nbsp; Mobile Manipulation
 - &nbsp; Reinforcement Learning
 - &nbsp; SLAM for Corner Cases
-- &nbsp; Robotic Arm Control
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
