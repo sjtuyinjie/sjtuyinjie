@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-Hi, I'm Jie Yin(殷杰), a self-motivated research engineer specializing in robotics🤖, received both my B.Eng. degree and M.Eng degree from **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)(上海交通大学)**. I am broadly interested in Robotics and Embodied AI, including Sensor Fusion, Reinforcement Learning, Manipulation, Locomotion and the intersection of them. Recently, I have been exploring **dexterous manipulation with locomotion** and **whole-body control**. Previously, I focus on advancing the performance of [multi-sensor fusion SLAM algorithms](https://github.com/SJTU-ViSYS/Sky-GVINS) under [corner cases](https://github.com/SJTU-ViSYS/Ground-Fusion) with [comprehensive benchmarks](https://github.com/SJTU-ViSYS/M2DGR).
+Hi, I'm Jie Yin(殷杰), a self-motivated research engineer specializing in robotics🤖, received both my B.Eng. degree and M.Eng degree from **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)(上海交通大学)**. I am broadly interested in Robotics and Embodied AI, including Sensor Fusion, Reinforcement Learning, Manipulation, Locomotion and the intersection of them. Recently, I have been exploring **dexterous manipulation with locomotion** and **whole-body control**, and my goal is to achieve human-level physical intelligence in humanoid robots. Previously, I focus on advancing the performance of [multi-sensor fusion SLAM algorithms](https://github.com/SJTU-ViSYS/Sky-GVINS) under [corner cases](https://github.com/SJTU-ViSYS/Ground-Fusion) with [comprehensive benchmarks](https://github.com/SJTU-ViSYS/M2DGR).
 
 <h3> ⭐️ &nbsp;Research Highlights</h3>
 
