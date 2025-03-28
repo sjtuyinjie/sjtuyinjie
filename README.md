@@ -116,6 +116,11 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><img alt="Forks" src="https://img.shields.io/github/forks/DelinQu/EN-SLAM?style=flat-square"/></td>
 </tr>
 <tr>
+    <td><a href="https://github.com/Joanna-HE/LIGO." target="_blank">LIGO</a><br>LIGO: A Tightly Coupled LiDAR-Inertial-GNSS Odometry Based on a Hierarchy Fusion Framework for Global Localization With Real-Time Mapping(TRO2025)</td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Joanna-HE/LIGO.?style=flat-square"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/Joanna-HE/LIGO.?style=flat-square"/></td>
+</tr>
+<tr>
     <td><a href="https://github.com/SJTU-ViSYS/Sky-GVINS" target="_blank">Sky-GVINS</a><br>Sky-GVINS: a Sky-segmentation Aided GNSS-Visual-Inertial System for Navigation in Urban Canyons(Geo-spatial Information and Science2023)</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/SJTU-ViSYS/Sky-GVINS?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/Sky-GVINS?style=flat-square"/></td>
