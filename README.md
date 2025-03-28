@@ -106,7 +106,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/Ground-Fusion?style=flat-square"/></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/sjtuyinjie/DAF" target="_blank">⚡DAF</a><br>Disentangled Acoustic Fields For Multimodal Physical Scene Understanding (IROS2024)</td>
+    <td><a href="https://github.com/sjtuyinjie/DAF" target="_blank">DAF</a><br>Disentangled Acoustic Fields For Multimodal Physical Scene Understanding (IROS2024)</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/DAF?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/DAF?style=flat-square"/></td>
 </tr>
