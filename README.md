@@ -98,7 +98,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 <tbody>
 <tr><th>Title</th><th>Description</th><th>Stars</th><th>Forks</th></tr>
 <tr>
-    <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
+    <td colspan="1" rowspan="5" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://github.com/SJTU-ViSYS" target="_blank">Cutting-edge Algorithms</a>
     </td>
     <td><a href="https://github.com/SJTU-ViSYS/Ground-Fusion" target="_blank">⚡Ground-Fusion</a><br>Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases (ICRA2024)</td>
