@@ -60,6 +60,8 @@ Furthermore, I'm also an active contributor to open-source projects related to R
 - [**awesome-Lidar-visual-slam**](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM)
 - [**awesome-grasp-list**](https://github.com/sjtuyinjie/Awesome-Grasp-List)
 - [**awesome-isaac-gym**](https://github.com/robotlearning123/awesome-isaac-gym)
+- [**awesome-isaac-sim**](https://github.com/sjtuyinjie/awesome-isaac-sim)
+
 
 These projects have collectively received **over 3000 GitHub stars**, reflecting their impact in the robotics and SLAM community. To give back to the academic community, I have also served as a reviewer for **ICRA**, **IROS**, **RA-L**, **TASE**, and **TRO**.
 
