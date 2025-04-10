@@ -51,7 +51,7 @@ My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVP
 - 08.2023 Sky-GVINS is accepted to **Geo-spatial Information Science'2023(JCR Q1)**! [[paper here](https://www.tandfonline.com/doi/abs/10.1080/10095020.2023.2191649)]
 - 12.2021 [**🔥M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) is accepted to **RA-L'2021(JCR Q1) and ICRA'2022**! [[paper here](https://ieeexplore.ieee.org/abstract/document/9664374)]
 
-Furthermore, I'm also an active contributor to open-source projects related to RL and robotics, like:
+Furthermore, I'm highly interested in open-source projects related to RL and robotics, like:
 - [**Genesis**](https://github.com/Genesis-Embodied-AI/Genesis)
 - [**RoboVerse**](https://github.com/RoboVerseOrg/RoboVerse)
 
