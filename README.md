@@ -54,6 +54,7 @@ My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVP
 Furthermore, I'm highly interested in open-source projects related to RL and robotics, like:
 - [**Genesis**](https://github.com/Genesis-Embodied-AI/Genesis)
 - [**RoboVerse**](https://github.com/RoboVerseOrg/RoboVerse)
+- [**RoboManipBaselines**(https://github.com/isri-aist/RoboManipBaselines)]
 
 
  In addition, I have curated high-quality resources on robotics for literature review, including:
