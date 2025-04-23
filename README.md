@@ -41,7 +41,7 @@ Hi, I'm Jie Yin(殷杰), a self-motivated research engineer specializing in robo
 
 My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVPR, TRO, and GPS Solutions**. My highlighted research include:
 
-- 01.2025 [**M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) is awarded **ESI HIGHLY CITED PAPER (TOP 1%)**!
+- 01.2025 🏆[**M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) is awarded **ESI HIGHLY CITED PAPER (TOP 1%)**!
 - 01.2025 [**LIGO**](https://github.com/Joanna-HE/LIGO.) is accepted to **TRO'2025(JCR Q1)**! [[paper here](https://ieeexplore.ieee.org/abstract/document/10842473)]
 - 06.2024 DAF is accepted to **IROS'2024**! [[paper here](https://ieeexplore.ieee.org/abstract/document/10802429/)]
 - 03.2024 [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion) is accepted to **ICRA'2024**! [[paper here](https://ieeexplore.ieee.org/document/10610070/)]
