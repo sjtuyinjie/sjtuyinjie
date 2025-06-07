@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/sjtuyinjie?tab=repositories">
 <img src="https://badges.strrl.dev/repos/sjtuyinjie?style=flat-square&logo=github">
 </a>
-
-
+<a href="https://github.com/sjtuyinjie?tab=followers">
+<img src="https://badges.strrl.dev/followers/sjtuyinjie?style=flat-square&logo=github">
+</a>
 
 
 
