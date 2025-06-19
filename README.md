@@ -68,7 +68,7 @@ These projects have collectively received **over 3000 GitHub stars**, reflecting
 
 <h3> 🚩 &nbsp;Affiliations</h3>
 
-I'm a self-motivated research engineer on robotics. Previously, I used to research at **[MIT-IBM Watson Lab](https://mitibmwatsonailab.mit.edu/), [HKU Mars Lab](https://github.com/hku-mars), [Tencent Robotics X Lab](https://roboticsx.tencent.com/#/), [Shanghai AI Lab](https://www.shlab.org.cn/), [SJTU Beidou NLS](https://nls.sjtu.edu.cn/web/index), [Shanghai Beidou Research Institute](http://www.bdi.org.cn/) and [SJTU-VISYS](https://github.com/SJTU-ViSYS)**. For more information, visit my [**personal website**](https://sjtuyinjie.github.io/)
+Currently, I'm a self-motivated research engineer in a robotics startup. Previously, I researched at **[MIT-IBM Watson Lab](https://mitibmwatsonailab.mit.edu/), [HKU Mars Lab](https://github.com/hku-mars), [Tencent Robotics X Lab](https://roboticsx.tencent.com/#/), [Shanghai AI Lab](https://www.shlab.org.cn/), [SJTU Beidou NLS](https://nls.sjtu.edu.cn/web/index), [Shanghai Beidou Research Institute](http://www.bdi.org.cn/) and [SJTU-VISYS](https://github.com/SJTU-ViSYS)**. For more information, visit my [**personal website**](https://sjtuyinjie.github.io/)
 
 
 <h3> 🔭 &nbsp;Current Interests</h3>
