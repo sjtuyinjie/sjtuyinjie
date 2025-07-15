@@ -112,7 +112,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/Ground-Fusion?style=flat-square"/></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/sjtuyinjie/Ground-Fusion2" target="_blank">Ground-Fusion++</a><br>Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework (IROS2025)</td>
+    <td><a href="https://github.com/sjtuyinjie/Ground-Fusion2" target="_blank">⚡Ground-Fusion++</a><br>Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework (IROS2025)</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/Ground-Fusion2?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/Ground-Fusion2?style=flat-square"/></td>
 </tr>
@@ -150,7 +150,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/M3DGR?style=flat-square"/></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/SJTU-ViSYS/M2DGR-plus" target="_blank">⚡M2DGR-plus</a><br>M2DGR-plus: Extension and update of M2DGR, a novel Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (ICRA2022 & ICRA2024)</td>
+    <td><a href="https://github.com/SJTU-ViSYS/M2DGR-plus" target="_blank">M2DGR-plus</a><br>M2DGR-plus: Extension and update of M2DGR, a novel Multi-modal and Multi-scenario SLAM Dataset for Ground Robots (ICRA2022 & ICRA2024)</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/SJTU-ViSYS/M2DGR-plus?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/M2DGR-plus?style=flat-square"/></td>
 </tr>
