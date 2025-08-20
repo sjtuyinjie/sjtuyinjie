@@ -90,7 +90,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- Simulation Platform: &nbsp; Isaac Gym; Isaac Sim (OIGE); Isaac Lab; MuJoCo; Pybullet
+- Simulation Platform: &nbsp; Isaac Gym; Isaac Sim (OIGE); Isaac Lab; MuJoCo; Pybullet; Genesis
 - Sensors: &nbsp; LiDAR (Velodyne, Robosense, Livox, RP Lidar); Camera (Intel Realsense D435I&D455, PointGrey, Hikon, Indemind, Orbbec); IMU(Xsens series, Handsfree); GNSS(Ublox); Mocap System(Vicon)
 - Robots: &nbsp; Wheeled Robot(WheelTec, Agile); Robotic Arm (Franka, Flexiv, Realman); Robotic Hand (Inspire, Shadow)
 
