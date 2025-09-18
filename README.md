@@ -62,6 +62,7 @@ Furthermore, I'm highly interested in open-source projects related to RL and rob
 - [**awesome-grasp-list**](https://github.com/sjtuyinjie/Awesome-Grasp-List)
 - [**awesome-isaac-gym**](https://github.com/robotlearning123/awesome-isaac-gym)
 - [**awesome-isaac-sim**](https://github.com/sjtuyinjie/awesome-isaac-sim)
+- [**awesome-urdf**](https://github.com/ami-iit/awesome-urdf)
 
 
 These projects have collectively received **over 3000 GitHub stars**, reflecting their impact in the robotics and SLAM community. To give back to the academic community, I have also served as a reviewer for **ICRA**, **IROS**, **RA-L**, **TASE**, and **TRO**.
@@ -174,7 +175,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/SJTU_GVI?style=flat-square"/></td>
 </tr>
 <tr>
-    <td colspan="1" rowspan="5" align="center" class="ai-notebooks-table-points ai-orange-link">
+    <td colspan="1" rowspan="6" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://github.com/sjtuyinjie" target="_blank">Awesome Lists</a>
     </td>
     <td><a href="https://github.com/robotlearning123/awesome-isaac-gym" target="_blank">⚡awesome-isaac-gym</a><br>A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources</td>
@@ -200,6 +201,11 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><a href="https://github.com/sjtuyinjie/awesome-isaac-sim" target="_blank">awesome-isaac-sim</a><br>Collect some related resources of NVIDIA Isaac Sim</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/awesome-isaac-sim?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/awesome-isaac-sim?style=flat-square"/></td>
+</tr>
+ <tr>
+    <td><a href="https://github.com/ami-iit/awesome-urdf" target="_blank">awesome-urdf</a><br>A curated list of Unified Robot Description Format (URDF) libraries, tools and resources.</td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/ami-iit/awesome-urdf?style=flat-square"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/ami-iit/awesome-urdf?style=flat-square"/></td>
 </tr>
 </tbody>
 </table>
