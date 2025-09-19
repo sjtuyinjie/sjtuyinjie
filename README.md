@@ -55,6 +55,7 @@ Furthermore, I'm highly interested in open-source projects related to RL and rob
 - [**Genesis**](https://github.com/Genesis-Embodied-AI/Genesis)
 - [**RoboVerse**](https://github.com/RoboVerseOrg/RoboVerse)
 - [**RoboManipBaselines**](https://github.com/isri-aist/RoboManipBaselines)
+- [**URDFly**](https://github.com/Democratizing-Dexterous/URDFly)
 
 
  In addition, I have curated high-quality resources on robotics for literature review, including:
