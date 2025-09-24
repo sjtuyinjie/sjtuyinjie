@@ -64,6 +64,7 @@ Furthermore, I'm highly interested in open-source projects related to RL and rob
 - [**awesome-grasp-list**](https://github.com/sjtuyinjie/Awesome-Grasp-List)
 - [**awesome-isaac-gym**](https://github.com/robotlearning123/awesome-isaac-gym)
 - [**awesome-isaac-sim**](https://github.com/sjtuyinjie/awesome-isaac-sim)
+- [**awesome-loco-manipulation**](https://github.com/aCodeDog/awesome-loco-manipulation)
 - [**awesome-urdf**](https://github.com/ami-iit/awesome-urdf)
 
 
@@ -177,7 +178,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/SJTU_GVI?style=flat-square"/></td>
 </tr>
 <tr>
-    <td colspan="1" rowspan="6" align="center" class="ai-notebooks-table-points ai-orange-link">
+    <td colspan="1" rowspan="7" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://github.com/sjtuyinjie" target="_blank">Awesome Lists</a>
     </td>
     <td><a href="https://github.com/robotlearning123/awesome-isaac-gym" target="_blank">⚡awesome-isaac-gym</a><br>A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources</td>
@@ -185,9 +186,19 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><img alt="Forks" src="https://img.shields.io/github/forks/robotlearning123/awesome-isaac-gym?style=flat-square"/></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM" target="_blank">awesome-LiDAR-Visual-SLAM</a><br>A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM</td>
+    <td><a href="https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM" target="_blank"> ⚡ awesome-LiDAR-Visual-SLAM</a><br>A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/awesome-LiDAR-Visual-SLAM?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/awesome-LiDAR-Visual-SLAM?style=flat-square"/></td>
+</tr>
+ <tr>
+    <td><a href="https://github.com/sjtuyinjie/awesome-isaac-sim" target="_blank">awesome-isaac-sim</a><br>Collect some related resources of NVIDIA Isaac Sim</td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/awesome-isaac-sim?style=flat-square"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/awesome-isaac-sim?style=flat-square"/></td>
+</tr>
+ <tr>
+    <td><a href="https://github.com/aCodeDog/awesome-loco-manipulation" target="_blank">awesome-loco-manipulation</a><br>A curated list of resources relevant to loco-manipulation.</td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=flat-square"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/aCodeDog/awesome-loco-manipulation?style=flat-square"/></td>
 </tr>
 <tr>
     <td><a href="https://github.com/sjtuyinjie/Awesome-Grasp-List" target="_blank">Awesome-Grasp-List</a><br>A curated list of awesome open-source grasping libraries and resources</td>
@@ -198,11 +209,6 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><a href="https://github.com/sjtuyinjie/awesome-wheel-slam" target="_blank">awesome-wheel-slam</a><br>A curated list of resources relevant to wheel-based SLAM</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/awesome-wheel-slam?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/awesome-wheel-slam?style=flat-square"/></td>
-</tr>
-<tr>
-    <td><a href="https://github.com/sjtuyinjie/awesome-isaac-sim" target="_blank">awesome-isaac-sim</a><br>Collect some related resources of NVIDIA Isaac Sim</td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/awesome-isaac-sim?style=flat-square"/></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/awesome-isaac-sim?style=flat-square"/></td>
 </tr>
  <tr>
     <td><a href="https://github.com/ami-iit/awesome-urdf" target="_blank">awesome-urdf</a><br>A curated list of Unified Robot Description Format (URDF) libraries, tools and resources.</td>
