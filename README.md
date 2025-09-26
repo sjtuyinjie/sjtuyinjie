@@ -179,7 +179,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/SJTU_GVI?style=flat-square"/></td>
 </tr>
 <tr>
-    <td colspan="1" rowspan="7" align="center" class="ai-notebooks-table-points ai-orange-link">
+    <td colspan="1" rowspan="8" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://github.com/sjtuyinjie" target="_blank">Awesome Lists</a>
     </td>
     <td><a href="https://github.com/robotlearning123/awesome-isaac-gym" target="_blank">⚡awesome-isaac-gym</a><br>A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources</td>
