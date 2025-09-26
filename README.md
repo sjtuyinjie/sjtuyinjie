@@ -65,6 +65,7 @@ Furthermore, I'm highly interested in open-source projects related to RL and rob
 - [**awesome-isaac-gym**](https://github.com/robotlearning123/awesome-isaac-gym)
 - [**awesome-isaac-sim**](https://github.com/sjtuyinjie/awesome-isaac-sim)
 - [**awesome-loco-manipulation**](https://github.com/aCodeDog/awesome-loco-manipulation)
+- [**Awesome-Transformer-based-SLAM**](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM)
 - [**awesome-urdf**](https://github.com/ami-iit/awesome-urdf)
 
 
@@ -199,6 +200,11 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><a href="https://github.com/aCodeDog/awesome-loco-manipulation" target="_blank">awesome-loco-manipulation</a><br>A curated list of resources relevant to loco-manipulation.</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/aCodeDog/awesome-loco-manipulation?style=flat-square"/></td>
+</tr>
+ <tr>
+    <td><a href="https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM" target="_blank">Awesome-Transformer-based-SLAM</a><br>Paper Survey for Transformer-based SLAM.</td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/KwanWaiPang/Awesome-Transformer-based-SLAM?style=flat-square"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/KwanWaiPang/Awesome-Transformer-based-SLAM?style=flat-square"/></td>
 </tr>
 <tr>
     <td><a href="https://github.com/sjtuyinjie/Awesome-Grasp-List" target="_blank">Awesome-Grasp-List</a><br>A curated list of awesome open-source grasping libraries and resources</td>
