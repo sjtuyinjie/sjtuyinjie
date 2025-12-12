@@ -230,30 +230,6 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 </table>
 
 
-<h3> 🎯 &nbsp;Records</h3>
-
-<table>
-  <tr>
-    <!-- GitHub Stats Card -->
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=sjtuyinjie" alt="Jie's GitHub stats" width="320" height="180">
-      </a>
-    </td>
-    <!-- Top Languages Card -->
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjtuyinjie&layout=compact&theme=tokyonight" alt="Top Langs" width="300" height="150">
-      </a>
-    </td>
-    <!-- Clustermap -->
-    <td>
-      <a href="https://clustrmaps.com/site/1QwIu">
-        <img src="https://clustrmaps.com/map_v2.png?d=Q1RB1wfb6BorS8KuqpIRpW_FbECKfzQhf_8_ccJHcaI&t=tt" alt="Clustermap" width="250" height="150">
-      </a>
-    </td>
-  </tr>
-</table>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=sjtuyinjie&theme=radical&column=9">
