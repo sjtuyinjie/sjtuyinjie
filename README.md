@@ -20,17 +20,20 @@ Here are some ideas to get you started:
 
 <h3> 😄 &nbsp;About Me</h3>
 
-[![Website](https://img.shields.io/badge/Website-yellow?style=flat)](https://sjtuyinjie.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-blue?style=flat
-)](https://scholar.google.com/citations?user=Y8LVRYIAAAAJ&hl=en)
-[![Wechat](https://img.shields.io/badge/Wechat-green?style=flat)](https://github.com/sjtuyinjie/sjtuyinjie/blob/main/assets/wechat.jpg)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:robot_yinjie@outlook.com)
+
+[![Website](https://img.shields.io/badge/Website-yellow?style=flat&logo=google-chrome&logoColor=white)](https://sjtuyinjie.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-blue?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Y8LVRYIAAAAJ&hl=en)
+[![Wechat](https://img.shields.io/badge/Wechat-green?style=flat&logo=wechat&logoColor=white)](https://github.com/sjtuyinjie/sjtuyinjie/blob/main/assets/wechat.jpg)
+[![Email](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:robot_yinjie@outlook.com)
 <a href="https://github.com/sjtuyinjie">
-<img src="https://badges.strrl.dev/years/sjtuyinjie?style=flat-square&logo=github">
+  <img src="https://badges.strrl.dev/years/sjtuyinjie?style=flat-square&logo=github">
 </a>
 <a href="https://github.com/sjtuyinjie?tab=repositories">
-<img src="https://badges.strrl.dev/repos/sjtuyinjie?style=flat-square&logo=github">
+  <img src="https://badges.strrl.dev/repos/sjtuyinjie?style=flat-square&logo=github">
 </a>
+
+
+
 
 
 
