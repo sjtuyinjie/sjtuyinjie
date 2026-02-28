@@ -43,7 +43,7 @@ Hi, I'm Jie Yin(殷杰), a self-motivated researcher specializing in robotics�
 <h3> ⭐️ &nbsp;Research Highlights</h3>
 
 My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVPR, TRO, and GPS Solutions**. My highlighted research include:
-- 02.2026 In-P3VIO is accepted to **TAES'2026**!
+- 02.2026 [**In-P3VIO**](https://ieeexplore.ieee.org/abstract/document/11372152) is accepted to **TAES'2026**!
 - 06.2025 [**LIGO**](https://github.com/Joanna-HE/LIGO.) is successfully transfered to **IROS'2025**!
 - 06.2025 [**🔥Ground-Fusion++**](https://github.com/sjtuyinjie/Ground-Fusion2)/[**🔥M3DGR**](https://github.com/sjtuyinjie/M3DGR) is accepted to **IROS'2025**![[paper here](https://arxiv.org/abs/2507.08364)]
 - 01.2025 🏆[**M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) is awarded **ESI HIGHLY CITED PAPER (TOP 1%)**!
