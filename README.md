@@ -40,6 +40,8 @@ Hi, I'm Jie Yin(殷杰), a self-motivated researcher specializing in robotics�
 <h3> ⭐️ &nbsp;Research Highlights</h3>
 
 My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVPR, TRO, and GPS Solutions**. My highlighted research include:
+- 06.2026 [**NIDAR**](https://nidar-web.github.io/) is accepted to **IROS'2026**!
+- 06.2026 We release a preview version of our strongest SLAM system: [**🏆Ultra-Fusion**](https://github.com/sjtuyinjie/Ultra-Fusion/), which largely outperforms prior Ground-Fusion and Ground-Fusion++!
 - 02.2026 [**In-P3VIO**](https://ieeexplore.ieee.org/abstract/document/11372152) is accepted to **TAES'2026**!
 - 06.2025 [**LIGO**](https://github.com/Joanna-HE/LIGO.) is successfully transfered to **IROS'2025**!
 - 06.2025 [**🔥Ground-Fusion++**](https://github.com/sjtuyinjie/Ground-Fusion2)/[**🔥M3DGR**](https://github.com/sjtuyinjie/M3DGR) is accepted to **IROS'2025**![[paper here](https://arxiv.org/abs/2507.08364)]
@@ -68,16 +70,16 @@ These projects have collectively received **over 3000 GitHub stars**, reflecting
 
 <h3> 🚩 &nbsp;Affiliations</h3>
 
-Currently, I'm a self-motivated research engineer in a robotics startup. Previously, I researched at **[MIT-IBM Watson Lab](https://mitibmwatsonailab.mit.edu/), [HKU Mars Lab](https://github.com/hku-mars), [Tencent Robotics X Lab](https://roboticsx.tencent.com/#/), [Shanghai AI Lab](https://www.shlab.org.cn/), [SJTU Beidou NLS](https://nls.sjtu.edu.cn/web/index), [Shanghai Beidou Research Institute](http://www.bdi.org.cn/) and [SJTU-VISYS](https://github.com/SJTU-ViSYS)**. For more information, visit my [**personal website**](https://sjtuyinjie.github.io/)
+Currently, I'm a research engineer in a robotics startup. Previously, I researched at **[MIT-IBM Watson Lab](https://mitibmwatsonailab.mit.edu/), [HKU Mars Lab](https://github.com/hku-mars), [Tencent Robotics X Lab](https://roboticsx.tencent.com/#/), [Shanghai AI Lab](https://www.shlab.org.cn/), [Shanghai Beidou Research Institute](http://www.bdi.org.cn/) and [SJTU-VISYS](https://github.com/SJTU-ViSYS)**. For more information, visit my [**personal website**](https://sjtuyinjie.github.io/)
 
 
 <h3> 🔭 &nbsp;Current Interests</h3>
 
 I'm currently working on following topics. If you want to collaborate, welcom to mail me at robot_yinjie@outlook.com. 🤝🏻
-- &nbsp; Dexterous Hand Manipulation
-- &nbsp; Mobile Manipulation
-- &nbsp; Reinforcement Learning
-- &nbsp; SLAM for Corner Cases
+- &nbsp; Dexterous Manipulation
+- &nbsp; Whole-body Control
+- &nbsp; Multi-sensor Fusion SLAM
+- &nbsp; Multi-modal Navigation
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
