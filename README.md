@@ -113,7 +113,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td colspan="1" rowspan="7" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://github.com/SJTU-ViSYS" target="_blank">Cutting-edge Algorithms</a>
     </td>
-      <td><a href="https://github.com/SJTU-ViSYS/Ground-Fusion" target="_blank">⚡Ultra-Fusion</a><br>Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation </td>
+      <td><a href="https://github.com/sjtuyinjie/Ultra-Fusion" target="_blank">⚡Ultra-Fusion</a><br>Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation </td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/sjtuyinjie/Ultra-Fusion?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sjtuyinjie/Ultra-Fusion?style=flat-square"/></td>
 </tr>
