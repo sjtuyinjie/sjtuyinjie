@@ -80,7 +80,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 - &nbsp; Dexterous Manipulation
 - &nbsp; Whole-body Control
 - &nbsp; Multi-sensor Fusion SLAM
-- &nbsp; Multi-modal Navigation
+- &nbsp; Multi-modal Reasoning
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
