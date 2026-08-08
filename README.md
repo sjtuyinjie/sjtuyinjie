@@ -40,7 +40,7 @@ Hi, I'm Jie Yin(殷杰), a passionate researcher and engineer specializing in ro
 
 <h3> ⭐️ &nbsp;Research Highlights</h3>
 
-My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVPR, TRO, and GPS Solutions**. My highlighted research include:
+My research has been published in top-tier venues such as **CoRL, ICRA, IROS, RAL, CVPR, TRO, and GPS Solutions**. My highlighted research include:
 - 06.2026 [**NIDAR**](https://nidar-web.github.io/) is accepted to **IROS'2026**!
 - 06.2026 We release a preview version of our strongest SLAM system: [**🏆Ultra-Fusion**](https://github.com/sjtuyinjie/Ultra-Fusion/), which largely outperforms prior Ground-Fusion and Ground-Fusion++!
 - 02.2026 [**In-P3VIO**](https://ieeexplore.ieee.org/abstract/document/11372152) is accepted to **TAES'2026**!
@@ -67,7 +67,7 @@ My research has been published in top-tier venues such as **ICRA, IROS, RAL, CVP
 - [**awesome-urdf**](https://github.com/ami-iit/awesome-urdf)
 
 
-These projects have collectively received **over 4000 GitHub stars**, reflecting their impact in the robotics and SLAM community. To give back to the academic community, I have also served as a reviewer for **ICRA**, **IROS**, **RA-L**, **TASE**, and **TRO**.
+These projects have collectively received **over 4000 GitHub stars**, reflecting their impact in the robotics and SLAM community. To give back to the academic community, I have also served as a reviewer for **CoRL**, **ICRA**, **IROS**, **RA-L**, **TASE**, and **TRO**.
 
 <h3> 🚩 &nbsp;Affiliations</h3>
 
