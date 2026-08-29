@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </a>
 
 
-Hi, I'm Jie Yin(殷杰), a passionate researcher and engineer specializing in robotics🤖, graduated from **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)(上海交通大学)**. I am broadly interested in Robotics and Embodied AI, including Sensor Fusion, Reinforcement Learning, Manipulation, Locomotion and the intersection of them. Recently, I have been exploring **dexterous manipulation with locomotion** and **whole-body control**, and my goal is to achieve human-level physical intelligence in humanoid robots. Previously, I focused on **resilient systems**/**comprehensive benchmarks** for multi-sensor fusion SLAM under corner cases.
+Hi, I'm Jie Yin(殷杰), a passionate researcher and engineer specializing in robotics🤖, graduated from **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)(上海交通大学)**. I am broadly interested in Robotics and Embodied AI, with a particular focus on Reinforcement Learning, World Models, and VTLA. Recently I have been focusing on **dexterous manipulation** and **whole-body control**. Previously, I worked on **resilient systems**/**comprehensive benchmarks** for multi-sensor fusion SLAM under corner cases. Ultimately, I aim to develop human-level physical intelligence for humanoid robots.
 
 <h3> ⭐️ &nbsp;Research Highlights</h3>
 
