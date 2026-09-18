@@ -112,7 +112,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
 <tbody>
 <tr><th>Title</th><th>Description</th><th>Stars</th><th>Forks</th></tr>
 <tr>
-    <td colspan="1" rowspan="7" align="center" class="ai-notebooks-table-points ai-orange-link">
+    <td colspan="1" rowspan="8" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://github.com/SJTU-ViSYS" target="_blank">Cutting-edge Algorithms</a>
     </td>
       <td><a href="https://github.com/sjtuyinjie/Ultra-Fusion" target="_blank">⚡Ultra-Fusion</a><br>Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation </td>
@@ -122,6 +122,11 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><a href="https://github.com/SJTU-ViSYS/Ground-Fusion" target="_blank">⚡Ground-Fusion</a><br>Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases (ICRA2024)</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/SJTU-ViSYS/Ground-Fusion?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/Ground-Fusion?style=flat-square"/></td>
+</tr>
+</tr>
+    <td><a href="https://github.com/sharpa-robotics/WM-Craftnet" target="_blank">⚡WM-Craftnet</a><br>WM-Craftnet: World Synesthesia Model for Generalizable and Robust Dexterous In-Hand Manipulation (CoRL2026)</td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/sharpa-robotics/WM-Craftnet?style=flat-square"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/sharpa-robotics/WM-Craftnet?style=flat-square"/></td>
 </tr>
 <tr>
     <td><a href="https://github.com/sjtuyinjie/Ground-Fusion2" target="_blank">Ground-Fusion++</a><br>Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework (IROS2025)</td>
