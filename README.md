@@ -41,17 +41,17 @@ Hi, I'm Jie Yin(殷杰), a passionate researcher and engineer specializing in ro
 <h3> ⭐️ &nbsp;Research Highlights</h3>
 
 My research has been published in top-tier venues such as **CoRL, ICRA, IROS, RAL, CVPR, TRO, and GPS Solutions**. My highlighted research include:
-- 09.2026 [**WM-Craftnet**](https://wmcraftnet.github.io/) is accepted to **CoRL'2026**!
+- 09.2026 [**🔥WM-Craftnet**](https://wmcraftnet.github.io/) is accepted to **CoRL'2026** and selected as **🏆Spotlight (Top 4.4%)**!
 - 06.2026 [**NIDAR**](https://nidar-web.github.io/) is accepted to **IROS'2026**!
-- 06.2026 We release a preview version of our strongest SLAM system: [**🏆Ultra-Fusion**](https://github.com/sjtuyinjie/Ultra-Fusion/), which largely outperforms prior Ground-Fusion and Ground-Fusion++!
+- 06.2026 We release a preview version of our strongest SLAM system: [**Ultra-Fusion**](https://github.com/sjtuyinjie/Ultra-Fusion/), which largely outperforms prior Ground-Fusion and Ground-Fusion++!
 - 02.2026 [**In-P3VIO**](https://ieeexplore.ieee.org/abstract/document/11372152) is accepted to **TAES'2026**!
 - 06.2025 [**LIGO**](https://github.com/Joanna-HE/LIGO.) is successfully transfered to **IROS'2025**!
 - 06.2025 [**🔥Ground-Fusion++**](https://github.com/sjtuyinjie/Ground-Fusion2)/[**🔥M3DGR**](https://github.com/sjtuyinjie/M3DGR) is accepted to **IROS'2025**![[paper here](https://arxiv.org/abs/2507.08364)]
-- 01.2025 🏆[**M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) is awarded **ESI HIGHLY CITED PAPER (TOP 1%)**!
+- 01.2025 [**M2DGR**](https://github.com/SJTU-ViSYS/M2DGR) is awarded **🏆ESI HIGHLY CITED PAPER (TOP 1%)**!
 - 01.2025 [**LIGO**](https://github.com/Joanna-HE/LIGO.) is accepted to **TRO'2025(JCR Q1)**! [[paper here](https://ieeexplore.ieee.org/abstract/document/10842473)]
 - 06.2024 DAF is accepted to **IROS'2024**! [[paper here](https://ieeexplore.ieee.org/abstract/document/10802429/)]
 - 03.2024 [**🔥Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion) is accepted to **ICRA'2024**! [[paper here](https://ieeexplore.ieee.org/document/10610070/)]
-- 03.2024 [**EN-SLAM**](https://github.com/DelinQu/EN-SLAM) is accepted to **CVPR'2024(Highlight)**! [[paper here](https://openaccess.thecvf.com/content/CVPR2024/html/Qu_Implicit_Event-RGBD_Neural_SLAM_CVPR_2024_paper.html)]
+- 03.2024 [**EN-SLAM**](https://github.com/DelinQu/EN-SLAM) is accepted to **CVPR'2024** and selected as **🏆Highlight (Top 3%)**! [[paper here](https://openaccess.thecvf.com/content/CVPR2024/html/Qu_Implicit_Event-RGBD_Neural_SLAM_CVPR_2024_paper.html)]
 - 03.2024 Innovation-KF is accepted to **GPS Solutions'2024(JCR Q1)**! [[paper here](https://link.springer.com/article/10.1007/s10291-024-01623-9)]
 - 08.2023 M2C-GVIO is accepted to **Satellite Navigation'2023(JCR Q1)**! [[paper here](https://link.springer.com/article/10.1186/s43020-023-00102-9)]
 - 08.2023 Sky-GVINS is accepted to **Geo-spatial Information Science'2023(JCR Q1)**! [[paper here](https://www.tandfonline.com/doi/abs/10.1080/10095020.2023.2191649)]
