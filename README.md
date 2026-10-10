@@ -68,7 +68,7 @@ My research has been published in top-tier venues such as **CoRL, ICRA, IROS, RA
 - [**awesome-urdf**](https://github.com/ami-iit/awesome-urdf)
 
 
-These projects have collectively received **over 4000 GitHub stars**, reflecting their impact in the robotics and SLAM community. To give back to the academic community, I have also served as a reviewer for **CoRL**, **ICRA**, **IROS**, **RA-L**, **TASE**, and **TRO**.
+These projects have collectively received **over 4000 GitHub stars**, reflecting their impact in the robotics and SLAM community. To give back to the academic community, I have also served as a reviewer for **CoRL**, **ICRA**, **IROS**, **RA-L**, **TASE**, **IJRR** and **TRO**.
 
 <h3> 🚩 &nbsp;Affiliations</h3>
 
