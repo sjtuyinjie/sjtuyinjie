@@ -124,7 +124,7 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td><img alt="Forks" src="https://img.shields.io/github/forks/SJTU-ViSYS/Ground-Fusion?style=flat-square"/></td>
 </tr>
 </tr>
-    <td><a href="https://github.com/sharpa-robotics/WM-Craftnet" target="_blank">⚡WM-Craftnet</a><br>WM-Craftnet: World Synesthesia Model for Generalizable and Robust Dexterous In-Hand Manipulation (CoRL2026)</td>
+    <td><a href="https://github.com/sharpa-robotics/WM-Craftnet" target="_blank">⚡WM-Craftnet</a><br>WM-Craftnet: World Synesthesia Model for Generalizable and Robust Dexterous In-Hand Manipulation (CoRL2026 Spotlight, top 4.4%)</td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/sharpa-robotics/WM-Craftnet?style=flat-square"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/sharpa-robotics/WM-Craftnet?style=flat-square"/></td>
 </tr>
