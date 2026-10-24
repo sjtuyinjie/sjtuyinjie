@@ -195,9 +195,6 @@ I'm currently working on following topics. If you want to collaborate, welcom to
     <td colspan="1" rowspan="8" align="center" class="ai-notebooks-table-points ai-orange-link">
         <a href="https://github.com/sjtuyinjie" target="_blank">Awesome Lists</a>
     </td>
-    <td><a href="https://github.com/robotlearning123/awesome-isaac-gym" target="_blank">⚡awesome-isaac-gym</a><br>A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources</td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/robotlearning123/awesome-isaac-gym?style=flat-square"/></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/robotlearning123/awesome-isaac-gym?style=flat-square"/></td>
 </tr>
 <tr>
     <td><a href="https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM" target="_blank"> ⚡ awesome-LiDAR-Visual-SLAM</a><br>A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM</td>
