@@ -41,6 +41,7 @@ Hi, I'm Jie Yin(殷杰), a passionate researcher and engineer specializing in ro
 <h3> ⭐️ &nbsp;Research Highlights</h3>
 
 My research has been published in top venues on AI and robotics, such as **CoRL, ICRA, IROS, RAL, CVPR, TRO, and GPS Solutions**. My highlighted research include:
+- 11.2026 I'm awarded **🏆CoRL Outstanding Reviewer Award (Top 3%)** by CoRL 2026 program chairs!
 - 09.2026 [**🔥WM-Craftnet**](https://wmcraftnet.github.io/) is accepted to **CoRL'2026** and selected as **🏆Spotlight (Top 4.4%)**!
 - 06.2026 [**NIDAR**](https://nidar-web.github.io/) is accepted to **IROS'2026**!
 - 06.2026 We release a preview version of our strongest SLAM system: [**Ultra-Fusion**](https://github.com/sjtuyinjie/Ultra-Fusion/), which largely outperforms prior Ground-Fusion and Ground-Fusion++!
